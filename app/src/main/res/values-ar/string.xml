@@ -1,0 +1,24 @@
+<resources>
+    <!--App-->
+    <string name="app_name">Aji ncodew</string>
+    <!--Get started activity -->
+    <string name="started_head">ما هو Aji ncodew</string>
+    <string name="email">البريد الإلكتروني :</string>
+    <string name="password">Password : </string>
+    <string name="ajincodew_description">Aji ncodew هي صفحة فيسبوك مخصصة لمشاركة محتوى البرمجة وتشجيع الشباب العرب على تعلم البرمجة.</string>
+    <string name="getStarted_btn">البدء</string>
+    <!-- Signup activity -->
+    <string name="signup_Head">مرحبا بكم هناك!</string>
+    <string name="signup_subtitle">دعنا نساعدك على تعلم البرمجة</string>
+    <string name="username_placeholder">أدخل اسمك الكامل</string>
+    <string name="email_placeholder">أدخل بريدك الإلكتروني</string>
+    <string name="password_placeholder">أدخل كلمة المرور</string>
+    <string name="passconf_placeholder">تأكيد كلمة المرور</string>
+    <string name="login_message">تريد إنشاء حساب؟</string>
+    <string name="signin_btn">تسجيل الدخول</string>
+    <!-- Login activity -->
+    <string name="login_head">مرحبًا بعودتك</string>
+    <string name="save_btn">حفظ</string>
+    <string name="signin_message">هل لديك حساب؟</string>
+    <string name="signup_btn">اشتراك</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <!--App-->
+    <string name="app_name">TAFFAH IP locator</string>
+    <!--Get started activity -->
+    <string name="started_head">What TAFFAH IP locator</string>
+    <string name="email">Email : </string>
+    <string name="password">Password : </string>
+    <string name="ajincodew_description">Welcome to your IP locator</string>
+    <string name="getStarted_btn">GET STARTED</string>
+    <!-- Signup activity -->
+    <string name="signup_Head">Welcom there!</string>
+    <string name="signup_subtitle">Let\'s help you to find your location</string>
+    <string name="username_placeholder">Enter your full name</string>
+    <string name="email_placeholder">Enter your email</string>
+    <string name="password_placeholder">Enter password</string>
+    <string name="passconf_placeholder">Confirm password</string>
+    <string name="login_message">You want to create an account?</string>
+    <string name="signin_btn">Sign in</string>
+    <!-- Login activity -->
+    <string name="login_head">Welcome Back</string>
+    <string name="save_btn">save</string>
+    <string name="signin_message">Already have an account?</string>
+    <string name="signup_btn">Sign up</string>
+</resources>

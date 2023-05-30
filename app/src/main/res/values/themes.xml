@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TAFFAH" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/move</item>
+        <item name="colorPrimaryVariant">@color/move</item>
+        <item name="colorOnPrimary">@color/move</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/move</item>
+        <item name="colorSecondaryVariant">@color/move</item>
+        <item name="colorOnSecondary">@color/move</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.TAFFAH.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Ajincodew.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.Ajincodew.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
